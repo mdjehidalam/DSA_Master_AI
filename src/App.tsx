@@ -752,20 +752,7 @@ export default function App() {
                 </div>
               </div>
             </div>
-            {/* <div className="flex-1 order-1 md:order-2">
-              <div className="relative group">
-                <div className="absolute -inset-4 bg-emerald-500/20 rounded-[3rem] blur-2xl group-hover:bg-emerald-500/30 transition-all" />
-                <div className="relative aspect-square rounded-[2.5rem] overflow-hidden border-2 border-emerald-500/20 shadow-2xl">
-                  <img 
-                    src="https://pixabay.com/illustrations/artificial-intelligence-9908402/" 
-                    alt="Md Jehid Alam" 
-                    className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-700"
-                    referrerPolicy="no-referrer"
-                  />
-                </div>
-              </div>
-            </div>
-          </div> */}
+           
         </div>
       </section>
 
