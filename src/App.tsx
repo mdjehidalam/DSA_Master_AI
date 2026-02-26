@@ -734,21 +734,21 @@ export default function App() {
               <span className="text-emerald-500 font-bold text-sm uppercase tracking-widest mb-4 block">The Creator</span>
               <h2 className="text-4xl font-bold mb-6">Meet the Developer</h2>
               <p className="text-zinc-400 mb-8 leading-relaxed text-lg">
-                Hi, I'm <strong>Md Jehid Alam</strong>. I built DSA Master AI to bridge the gap between theoretical knowledge and practical interview success. 
-                My goal is to provide students with a high-quality, AI-driven platform that makes mastering data structures accessible and engaging.
+                Hi, We're<strong>Md Jehid Alam, Md Farhan Ashraf, Md Waqar and Irfan Ashraf</strong>. We built DSA Master AI to bridge the gap between theoretical knowledge and practical interview success. 
+                Our goal is to provide students with a high-quality, AI-driven platform that makes mastering data structures accessible and engaging.
               </p>
               <div className="space-y-4">
                 <div className="flex items-center gap-4">
                   <div className="w-10 h-10 rounded-xl bg-zinc-800 flex items-center justify-center">
                     <Github className="w-5 h-5 text-zinc-400" />
                   </div>
-                  <span className="text-zinc-300 font-medium">github.com/jehidalam</span>
+                  <span className="text-zinc-300 font-medium">github.com/mdjehidalam</span>
                 </div>
                 <div className="flex items-center gap-4">
                   <div className="w-10 h-10 rounded-xl bg-zinc-800 flex items-center justify-center">
                     <Linkedin className="w-5 h-5 text-zinc-400" />
                   </div>
-                  <span className="text-zinc-300 font-medium">linkedin.com/in/jehidalam</span>
+                  <span className="text-zinc-300 font-medium">linkedin.com/in/mdjehidalamindia</span>
                 </div>
               </div>
             </div>
@@ -757,7 +757,7 @@ export default function App() {
                 <div className="absolute -inset-4 bg-emerald-500/20 rounded-[3rem] blur-2xl group-hover:bg-emerald-500/30 transition-all" />
                 <div className="relative aspect-square rounded-[2.5rem] overflow-hidden border-2 border-emerald-500/20 shadow-2xl">
                   <img 
-                    src="https://picsum.photos/seed/developer/800/800" 
+                    src="https://share.google/KCWxiu7MQ4oDKkUp6/800/800" 
                     alt="Md Jehid Alam" 
                     className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-700"
                     referrerPolicy="no-referrer"
