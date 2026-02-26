@@ -732,9 +732,9 @@ export default function App() {
           <div className="flex flex-col md:flex-row gap-16 items-center">
             <div className="flex-1 order-2 md:order-1">
               <span className="text-emerald-500 font-bold text-sm uppercase tracking-widest mb-4 block">The Creator</span>
-              <h2 className="text-4xl font-bold mb-6">Meet the Developer</h2>
+              <h2 className="text-4xl font-bold mb-6">Meet the Developers</h2>
               <p className="text-zinc-400 mb-8 leading-relaxed text-lg">
-                Hi, We're<strong>Md Jehid Alam, Md Farhan Ashraf, Md Waqar and Irfan Ashraf</strong>. We built DSA Master AI to bridge the gap between theoretical knowledge and practical interview success. 
+                Hi, We're<strong> Md Jehid Alam, Md Farhan Ashraf, Md Waqar and Irfan Ashraf</strong>. We built DSA Master AI to bridge the gap between theoretical knowledge and practical interview success. 
                 Our goal is to provide students with a high-quality, AI-driven platform that makes mastering data structures accessible and engaging.
               </p>
               <div className="space-y-4">
@@ -757,7 +757,7 @@ export default function App() {
                 <div className="absolute -inset-4 bg-emerald-500/20 rounded-[3rem] blur-2xl group-hover:bg-emerald-500/30 transition-all" />
                 <div className="relative aspect-square rounded-[2.5rem] overflow-hidden border-2 border-emerald-500/20 shadow-2xl">
                   <img 
-                    src="https://share.google/KCWxiu7MQ4oDKkUp6/800/800" 
+                    src="https://share.google/KCWxiu7MQ4oDKkUp6" 
                     alt="Md Jehid Alam" 
                     className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-700"
                     referrerPolicy="no-referrer"
