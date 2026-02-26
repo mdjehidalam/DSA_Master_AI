@@ -732,7 +732,7 @@ export default function App() {
           <div className="flex flex-col md:flex-row gap-16 items-center">
             <div className="flex-1 order-2 md:order-1">
               <span className="text-emerald-500 font-bold text-sm uppercase tracking-widest mb-4 block">The Creator</span>
-              <h2 className="text-4xl font-bold mb-6">Meet the Developer</h2>
+              <h2 className="text-4xl font-bold mb-6">Meet the Developers</h2>
               <p className="text-zinc-400 mb-8 leading-relaxed text-lg">
                 Hi, We are <strong>Md Jehid Alam , Md Farhan Ashraf, Md Waqar, & Irfan Ashraf</strong>. We built DSA Master AI to bridge the gap between theoretical knowledge and practical interview success. 
                 Our goal is to provide students with a high-quality, AI-driven platform that makes mastering data structures accessible and engaging.
@@ -742,13 +742,13 @@ export default function App() {
                   <div className="w-10 h-10 rounded-xl bg-zinc-800 flex items-center justify-center">
                     <Github className="w-5 h-5 text-zinc-400" />
                   </div>
-                  <span className="text-zinc-300 font-medium">github.com/jehidalam</span>
+                  <span className="text-zinc-300 font-medium">github.com/mdjehidalam</span>
                 </div>
                 <div className="flex items-center gap-4">
                   <div className="w-10 h-10 rounded-xl bg-zinc-800 flex items-center justify-center">
                     <Linkedin className="w-5 h-5 text-zinc-400" />
                   </div>
-                  <span className="text-zinc-300 font-medium">linkedin.com/in/jehidalam</span>
+                  <span className="text-zinc-300 font-medium">linkedin.com/in/mdjehidalamindia</span>
                 </div>
               </div>
             </div>
@@ -1408,7 +1408,7 @@ export default function App() {
               </div>
               <div className="p-4 rounded-2xl bg-zinc-800/50 border border-zinc-700">
                 <p className="text-xs text-zinc-500 uppercase font-bold mb-1">Contact Email</p>
-                <p className="font-medium">mdfarhanashraf@gmail.com</p>
+                <p className="font-medium">mdfarhanashraf3112@gmail.com</p>
               </div>
 
               <div className="p-4 rounded-2xl bg-zinc-800/50 border border-zinc-700">
