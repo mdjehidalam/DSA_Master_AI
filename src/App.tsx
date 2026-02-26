@@ -732,9 +732,9 @@ export default function App() {
           <div className="flex flex-col md:flex-row gap-16 items-center">
             <div className="flex-1 order-2 md:order-1">
               <span className="text-emerald-500 font-bold text-sm uppercase tracking-widest mb-4 block">The Creator</span>
-              <h2 className="text-4xl font-bold mb-6">Meet the Developers</h2>
+              <h2 className="text-4xl font-bold mb-6">Meet the Developer</h2>
               <p className="text-zinc-400 mb-8 leading-relaxed text-lg">
-                Hi, We're<strong> Md Jehid Alam, Md Farhan Ashraf, Md Waqar and Irfan Ashraf</strong>. We built DSA Master AI to bridge the gap between theoretical knowledge and practical interview success. 
+                Hi, We are <strong>Md Jehid Alam , Md Farhan Ashraf, Md Waqar, & Irfan Ashraf</strong>. We built DSA Master AI to bridge the gap between theoretical knowledge and practical interview success. 
                 Our goal is to provide students with a high-quality, AI-driven platform that makes mastering data structures accessible and engaging.
               </p>
               <div className="space-y-4">
@@ -742,30 +742,18 @@ export default function App() {
                   <div className="w-10 h-10 rounded-xl bg-zinc-800 flex items-center justify-center">
                     <Github className="w-5 h-5 text-zinc-400" />
                   </div>
-                  <span className="text-zinc-300 font-medium">github.com/mdjehidalam</span>
+                  <span className="text-zinc-300 font-medium">github.com/jehidalam</span>
                 </div>
                 <div className="flex items-center gap-4">
                   <div className="w-10 h-10 rounded-xl bg-zinc-800 flex items-center justify-center">
                     <Linkedin className="w-5 h-5 text-zinc-400" />
                   </div>
-                  <span className="text-zinc-300 font-medium">linkedin.com/in/mdjehidalamindia</span>
+                  <span className="text-zinc-300 font-medium">linkedin.com/in/jehidalam</span>
                 </div>
               </div>
             </div>
-             <div className="flex-1 order-1 md:order-2">
-              <div className="relative group">
-                <div className="absolute -inset-4 bg-emerald-500/20 rounded-[3rem] blur-2xl group-hover:bg-emerald-500/30 transition-all" />
-                <div className="relative aspect-square rounded-[2.5rem] overflow-hidden border-2 border-emerald-500/20 shadow-2xl">
-                  <img 
-                    src="https://pixabay.com/illustrations/artificial-intelligence-9908402/" 
-                    alt="Md Jehid Alam" 
-                    className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-700"
-                    referrerPolicy="no-referrer"
-                  />
-                </div>
-              </div>
-            </div>
-          </div> 
+             
+          </div>
         </div>
       </section>
 
@@ -1401,8 +1389,9 @@ export default function App() {
               </div>
               <div>
                 <h3 className="text-xl font-bold">Developer Information</h3>
-                <p className="text-zinc-400 text-sm">Project created by Md Jehid Alam</p>
+                <p className="text-zinc-400 text-sm">Project created by Md's Team</p>
               </div>
+              
             </div>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
               <div className="p-4 rounded-2xl bg-zinc-800/50 border border-zinc-700">
@@ -1412,6 +1401,31 @@ export default function App() {
               <div className="p-4 rounded-2xl bg-zinc-800/50 border border-zinc-700">
                 <p className="text-xs text-zinc-500 uppercase font-bold mb-1">Contact Email</p>
                 <p className="font-medium">mdjehidalam@gmail.com</p>
+              </div>
+              <div className="p-4 rounded-2xl bg-zinc-800/50 border border-zinc-700">
+                <p className="text-xs text-zinc-500 uppercase font-bold mb-1">Developer Name</p>
+                <p className="font-medium">Md Farhan Ashraf</p>
+              </div>
+              <div className="p-4 rounded-2xl bg-zinc-800/50 border border-zinc-700">
+                <p className="text-xs text-zinc-500 uppercase font-bold mb-1">Contact Email</p>
+                <p className="font-medium">mdfarhanashraf@gmail.com</p>
+              </div>
+
+              <div className="p-4 rounded-2xl bg-zinc-800/50 border border-zinc-700">
+                <p className="text-xs text-zinc-500 uppercase font-bold mb-1">Developer Name</p>
+                <p className="font-medium">Md waqar</p>
+              </div>
+              <div className="p-4 rounded-2xl bg-zinc-800/50 border border-zinc-700">
+                <p className="text-xs text-zinc-500 uppercase font-bold mb-1">Contact Email</p>
+                <p className="font-medium">mdwaqar2026@gmail.com</p>
+              </div>
+              <div className="p-4 rounded-2xl bg-zinc-800/50 border border-zinc-700">
+                <p className="text-xs text-zinc-500 uppercase font-bold mb-1">Developer Name</p>
+                <p className="font-medium">Irfan Ashraf</p>
+              </div>
+              <div className="p-4 rounded-2xl bg-zinc-800/50 border border-zinc-700">
+                <p className="text-xs text-zinc-500 uppercase font-bold mb-1">Contact Email</p>
+                <p className="font-medium">irfanashraf2025@gmail.com</p>
               </div>
             </div>
           </div>
